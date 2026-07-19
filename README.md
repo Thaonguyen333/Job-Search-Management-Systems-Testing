@@ -1,7 +1,7 @@
 # Job-Search-Management-Systems-Testing
 ## Project Overview
 
-This project contains manual test cases designed for a Job Portal System based on the Software Requirements Specification (SRS).
+This project contains manual test cases designed for a Job Search System based on the Software Requirements Specification (SRS).
 
 ## Scope
 
@@ -30,3 +30,4 @@ The following modules were covered:
 ## Tools
 
 - Microsoft Excel
+- SQL Server
